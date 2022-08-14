@@ -1,0 +1,19 @@
+
+td{
+    text-align: center;
+
+}
+table{
+    border-collapse: collapse;
+    background-color: white;
+    width: 50%;
+}
+tr{
+    height: 80px;
+}
+/*td:nth-child(odd) {*/
+/*    background-color: black;*/
+/*}*/
+th{
+    background-color: darkgoldenrod;
+}
